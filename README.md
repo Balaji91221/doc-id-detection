@@ -1,6 +1,4 @@
-Thanks! Since you're **also adding Aadhaar card detection**, here's the updated and complete `README.md` including **Aadhaar**, making it a **4-class** model: PAN, Passport, Driving License, and Aadhaar.
 
----
 
 # 📄 Multi-Document Photo Detection using YOLOv8
 
